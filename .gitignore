@@ -1,0 +1,18 @@
+# root junk
+node_modules/
+.next/
+*.log
+
+# envs
+.env
+.env.*
+!.env.example
+
+# editor/OS
+.DS_Store
+Thumbs.db
+
+# web app artifacts
+/web/node_modules/
+/web/.next/
+/web/.vercel/
